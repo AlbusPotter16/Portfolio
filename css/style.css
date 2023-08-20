@@ -144,6 +144,11 @@
 .site-main .brand-area .experience-area span{
     display: block;
 }
+.call-area {
+    
+    flex-wrap: wrap; 
+    
+}
 
 .site-main .brand-area .experience-area .years-area{
     background: url(../img/client-info-bg.png) no-repeat 45px 20px;
